@@ -1,0 +1,6 @@
+venv
+*.env
+*.svg
+*.gv
+*.idea
+*.pyc
